@@ -14,8 +14,10 @@ Fundamentals of Data Visualisation: https://clauswilke.com/dataviz/index.html
 
 - How to use R?: http://swcarpentry.github.io/r-novice-inflammation/
 
-- R for Data Science (2e): https://r4ds.hadley.nz/
-
 - Data Manipulation and Visualisation in R: https://intersectaustralia.github.io/training/R203/
+
+- https://www.coursera.org/learn/data-visualization-for-genome-biology
+
+- R for Data Science (2e): https://r4ds.hadley.nz/
 
 - 30 R Packages For Data Visualization That You May Not Know Of: https://medium.com/geekculture/20-r-packages-for-data-visualization-that-you-may-not-know-of-3276b468101f
