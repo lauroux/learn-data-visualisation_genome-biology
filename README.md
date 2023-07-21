@@ -1,3 +1,3 @@
 # learn-data-visualisation_genome-biology ###
 
-Below a non-exhaustive list of ressources you can explore for learning and approfondir you knowledge on how visualise your data for genome biology.
+Here is a non-exhaustive list of resources that you can explore to learn and deepen your knowledge of data visualisation for genome biology.
