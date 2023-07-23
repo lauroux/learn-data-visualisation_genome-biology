@@ -18,6 +18,18 @@ Fundamentals of Data Visualisation: https://clauswilke.com/dataviz/index.html
 
 - https://www.coursera.org/learn/data-visualization-for-genome-biology
 
+- R Programming for Data Science: https://bookdown.org/rdpeng/rprogdatascience/#stay-in-touch
+
 - R for Data Science (2e): https://r4ds.hadley.nz/
 
+- Efficient R programming: https://csgillespie.github.io/efficientR/
+
 - 30 R Packages For Data Visualization That You May Not Know Of: https://medium.com/geekculture/20-r-packages-for-data-visualization-that-you-may-not-know-of-3276b468101f
+
+- Advanced R: https://adv-r.hadley.nz/index.html
+
+### ggplot
+
+- Data Visualisation in R with ggpltot2: https://sscc.wisc.edu/sscc/pubs/dvr/ggplot-building-blocks.html
+
+- ggplot2: Elegeant Graphics for Data Analysis (3e): https://ggplot2-book.org/
