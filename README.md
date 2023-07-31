@@ -18,8 +18,6 @@ Fundamentals of Data Visualisation: https://clauswilke.com/dataviz/index.html
 
 - Data Manipulation and Visualisation in R: https://intersectaustralia.github.io/training/R203/
 
-- https://www.coursera.org/learn/data-visualization-for-genome-biology
-
 - R Programming for Data Science: https://bookdown.org/rdpeng/rprogdatascience/#stay-in-touch
 
 - R for Data Science (2e): https://r4ds.hadley.nz/
