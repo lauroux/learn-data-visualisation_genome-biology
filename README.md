@@ -6,7 +6,7 @@ Fundamentals of Data Visualisation: https://clauswilke.com/dataviz/index.html
 
 ## Unix
 
-- Introduction to Unix: http://andrewjrobinson.github.io/training_docs/tutorials/unix/
+- Introduction to Unix: http://andrewjrobinson.github.io/training_docs/tutorials/unix/ + https://andrewjrobinson.github.io/training_docs/tutorials/hpc/
 
 - Basic Unix commands: https://mally.stanford.edu/~sr/computing/basic-unix.html
   
